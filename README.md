@@ -1,2 +1,7 @@
 # JAVASCRIPT_DAILY_TASKS
-This repository contains my daily JavaScript practice tasks and coding exercises. It covers basic concepts, functions, loops, arrays, strings, and problem-solving. These tasks help me improve my JavaScript skills, logical thinking, and coding practice.
+This Repository contains my daily JavaScript practice tasks and coding exercise. It Covers basic concepts ,functions ,loops ,arrays ,string ,and problem-solving .These tasks help me improve my javascript skills ,logical thinking and coding practice.
+
+
+
+
+
