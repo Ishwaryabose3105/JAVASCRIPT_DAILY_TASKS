@@ -88,6 +88,3 @@ This mini project helped me practice:
 
 **Ishwarya B**
 
-
----
-
