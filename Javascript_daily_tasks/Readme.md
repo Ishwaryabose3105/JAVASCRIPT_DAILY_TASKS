@@ -5,9 +5,9 @@
 This day focuses on commonly used **JavaScript Array Methods** for performing calculations, checking conditions, transforming data, and processing values stored in arrays.
 
 The tasks demonstrate practical usage of array methods with **numbers, student marks, product prices, and employee salaries**.
-
+        
 These methods are useful for handling and processing data efficiently in real-world JavaScript applications.
-
+           
 ---
 
 ## 🎯 Learning Objectives
@@ -28,7 +28,7 @@ These methods are useful for handling and processing data efficiently in real-wo
 * HTML5
 * JavaScript
 * DOM Manipulation
-
+        
 ---
 
 ## 📂 Folder Structure
